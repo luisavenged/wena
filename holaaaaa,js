@@ -1,0 +1,37 @@
+/*
+esto es un comentario
+*/
+//es es un comentario
+/*function saludo(){}
+
+var uno="saludo";
+
+var b="hola a todos";
+*/
+/*"use strict"   funcion estricta es opcional pero recomendable */
+//var gato = "esto es un gato";
+/*var gato = "esto es un gato";
+var barco = gato;
+
+
+
+
+alert(barco);
+*/
+
+var gato = "esto es un gato";
+var  gato = "esto no es un gato"
+
+const PI = 3.1416;
+//alert(gato);   --es una alerta en el navegador, no es muy utilizable
+
+document.write(gato)
+
+
+
+
+/*
+DECLARACION 
+INICIALIZACION
+UTILIZACION
+*/
